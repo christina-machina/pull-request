@@ -1,1 +1,2 @@
-File was added in the feature2 branch
+File was added in the feature2 branch.
+Another line
